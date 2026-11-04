@@ -1,0 +1,17 @@
+node_modules
+node_modules/
+.next
+.next/
+build/
+dist
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.aistudio/
+.playwright-cli/
+public/assets/aistudio/
+bun.lock
+metadata.json
